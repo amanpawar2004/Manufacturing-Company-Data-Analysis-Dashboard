@@ -102,12 +102,9 @@ Manufacturing-Data-Analysis-Dashboard/
 > Upload your dashboard screenshot inside the **Images** folder and replace the filename below if necessary.
 
 ```markdown
-<h2 align="center">Dashboard Preview</h2>
+## 📷 Dashboard Preview
 
-<p align="center">
-  <img src="Dashboard Image.png" width="900">
-</p>
-```
+![Dashboard Preview](Dashboard%20Image.png)
 
 ---
 
