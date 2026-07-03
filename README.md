@@ -104,7 +104,7 @@ Manufacturing-Data-Analysis-Dashboard/
 ```markdown
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Dashboard%20Image.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
